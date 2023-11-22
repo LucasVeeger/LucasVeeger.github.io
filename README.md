@@ -1,2 +1,3 @@
-# LucasVeeger.github.io
-Animations accompanying figures in the MSc thesis 
+## Picture 1
+![Figure_x](beach-boat.jpg)
+![Figure_x](test1.gif)
