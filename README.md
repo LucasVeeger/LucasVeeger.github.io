@@ -14,6 +14,7 @@ This webpage shows the results accompanying the figures in the thesis (CCS Reser
 
 
 # Variable shale
+For illustrative purposes, the post-injection phase (>12 years) is included in these animations. See discussion in section 4.4.3, 5.5.2 and 6.2 for more details on this part of the simulation and why it is not yet captured properly. 
 ### (Figure 5.4 & 5.5) 
 
 #### Case 108
